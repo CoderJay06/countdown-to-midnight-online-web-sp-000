@@ -13,5 +13,6 @@ end
 
 def countdown_with_sleep(number)
   count = 0 
-  while  
+  while number >= count 
+    sleep
 end 
